@@ -1,0 +1,26 @@
+{
+  "name": "BasicAlgorithms",
+  "version": "1.0.0",
+  "description": "Basic Algorithms Study Prep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpcvjet/BasicAlgorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpcvjet/BasicAlgorithms/issues"
+  },
+  "homepage": "https://github.com/rpcvjet/BasicAlgorithms#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "dependencies": {
+    "save-dev": "^2.0.0"
+  }
+}
